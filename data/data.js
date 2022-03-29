@@ -9,5 +9,9 @@ module.exports = {
         'introTitle': 'Storage & Files',
         'introSubTitle': 'To scan the device for any\nmalicious software and files.',
         'btn': 'Give permission'
+    },
+    privacyPolicy: {
+        'title': 'We take your privacy seriously',
+        'btn': 'Accept and continue'
     }
  };
