@@ -16,7 +16,7 @@ class PrivacyPolicyPage {
 
     async clickGetStartedButton() {
         console.log("IntroScreen - click GetStarted Button");
-        await intro.btnAccept.click();
+        await intro.btnAcceptText.click();
     }
 }
 module.exports = new PrivacyPolicyPage();
