@@ -8,6 +8,5 @@ describe('Android - ', () => {
         await startPage.clickOnboardingButton();
         await privaccyPolicyPage.verifyDisplay();
         await privaccyPolicyPage.clickGetStartedButton();
-        await driver.pause(3000);
     })
 })

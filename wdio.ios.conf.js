@@ -16,8 +16,6 @@ exports.config = {
         'appium:deviceName': 'iPhone 13',
         'appium:udid': '98F21B3B-F621-4117-A005-35D5599129E1',
         'appium:app': join(process.cwd(), './builds/app/TestApp.app'),
-  
-        
       }],
 
     logLevel: 'error',
