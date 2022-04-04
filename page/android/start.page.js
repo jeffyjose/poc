@@ -1,7 +1,8 @@
 const start = require('../../screen/android/start.screen.js');
-const assert = require('assert'); 
+const assert = require('assert');
 
 class StartPage {
+
     async verifyDisplay() {
         console.log("Start - verify Intro Display");
         assert(await start.btnDesignLibrary.waitForExist());

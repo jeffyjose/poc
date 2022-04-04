@@ -13,7 +13,7 @@ exports.config = {
         'appium:platformName': 'Android',
         'appium:platformVersion': '10',
         'appium:deviceName': '2ae1eb18840b7ece',
-        'appium:app': join(process.cwd(), './apk/app_v-5.0.0+0-debug.apk'),
+        'appium:app': join(process.cwd(), './builds/apk/app_v-5.0.0+0-debug.apk'),
         'appium:appPackage': 'org.malwarebytes.antimalware',
     }],
 
