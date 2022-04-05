@@ -1,0 +1,15 @@
+/* Class = "UILabel"; text = "Scroll down and tap <b>Safari</b>"; ObjectID = "d4O-ql-zUA"; */
+"d4O-ql-zUA.text" = "Faites défiler la page et appuyez sur <b>Safari</b>";
+
+/* Class = "UILabel"; text = "##DO NOT LOCALIZE##"; ObjectID = "e2Y-uR-z8q"; */
+"e2Y-uR-z8q.text" = "##DO NOT LOCALIZE##";
+
+/* Class = "UILabel"; text = "Toggle on <b>Malwarebytes – Web Protection</b>"; ObjectID = "mjy-sB-Oys"; */
+"mjy-sB-Oys.text" = "Activez <b>Malwarebytes – Protection Web</b>";
+
+/* Class = "UILabel"; text = "Go to <b>Settings</b>"; ObjectID = "p5i-5D-nLx"; */
+"p5i-5D-nLx.text" = "Allez à <b>Paramètres</b>";
+
+/* Class = "UILabel"; text = "Follow these steps to set up Web Protection on Safari."; ObjectID = "RqR-GP-xpr"; */
+"RqR-GP-xpr.text" = "Suivez ces étapes pour configurer la protection Web sur Safari.";
+

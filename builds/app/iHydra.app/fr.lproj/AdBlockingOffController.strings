@@ -1,0 +1,9 @@
+/* Class = "UILabel"; text = "Ad Blocking is off"; ObjectID = "4mx-5R-2Sk"; */
+"4mx-5R-2Sk.text" = "Le blocage de publicités est désactivé";
+
+/* Class = "UIButton"; normalTitle = "Turn on Ad Blocking"; ObjectID = "Gb6-yE-U4E"; */
+"Gb6-yE-U4E.normalTitle" = "Activer le blocage de publicités";
+
+/* Class = "UILabel"; text = "Ad blocking removes annoying ads from Safari.\n\nIt also blocks ad trackers that advertisers use to target you."; ObjectID = "t9K-lo-Y8M"; */
+"t9K-lo-Y8M.text" = "Le blocage de publicités élimine les publicités envahissantes de Safari.\n\nIl bloque également les traqueurs de publicité utilisés par les publicitaires pour vous cibler.";
+

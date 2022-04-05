@@ -1,0 +1,9 @@
+/* Class = "UIButton"; normalTitle = "Turn off protection"; ObjectID = "4gk-JL-qNa"; */
+"4gk-JL-qNa.normalTitle" = "Desactivar protección";
+
+/* Class = "UILabel"; text = "Are you sure you want to turn off Call Protection?"; ObjectID = "a3E-KE-36o"; */
+"a3E-KE-36o.text" = "¿Seguro que quieres desactivar la protección de llamadas?";
+
+/* Class = "UILabel"; text = "Call Protection detects when a call is from a suspected scammer, then it blocks the call or warns you it may be fraudulent."; ObjectID = "wWL-au-F3d"; */
+"wWL-au-F3d.text" = "La protección de llamadas detecta si la llamada procede de un sospechoso de ser estafador y en ese caso bloquea la llamada o te advierte de que puede ser fraudulenta.";
+

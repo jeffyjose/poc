@@ -1,0 +1,9 @@
+/* Class = "UILabel"; text = "Call Protection detects when a call is from a suspected scammer, then it blocks the call or warns you it may be fraudulent."; ObjectID = "b32-Xr-3Dk"; */
+"b32-Xr-3Dk.text" = "La protección de llamadas detecta si la llamada procede de un sospechoso de ser estafador y en ese caso bloquea la llamada o te advierte de que puede ser fraudulenta.";
+
+/* Class = "UIButton"; normalTitle = "Turn on Call Protection"; ObjectID = "fPu-hv-6z6"; */
+"fPu-hv-6z6.normalTitle" = "Activar la protección de llamadas";
+
+/* Class = "UILabel"; text = "Call Protection is off"; ObjectID = "gmw-Ye-H9O"; */
+"gmw-Ye-H9O.text" = "Protección de llamadas desactivada";
+

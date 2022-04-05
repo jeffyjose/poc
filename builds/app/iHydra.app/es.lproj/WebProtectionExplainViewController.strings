@@ -1,0 +1,9 @@
+/* Class = "UIButton"; normalTitle = "Activate protection"; ObjectID = "0Rg-0e-vZq"; */
+"0Rg-0e-vZq.normalTitle" = "Activate protection";
+
+/* Class = "UILabel"; text = "Web Protection stops you from accidentally visiting sites that contain scams when you use Safari."; ObjectID = "a1H-PN-WJ3"; */
+"a1H-PN-WJ3.text" = "La protección web impide que visites accidentalmente sitios que contienen estafas cuando utilizas Safari.";
+
+/* Class = "UILabel"; text = "To activate this feature, upgrade to Premium. It’s free for the first ##LENGTH## days and you can cancel at any time."; ObjectID = "Qql-MR-dn6"; */
+"Qql-MR-dn6.text" = "Para activar esta función, actualízate a Premium. Es gratis durante los primeros ##LENGTH## días, y puedes cancelarlo en cualquier momento.";
+

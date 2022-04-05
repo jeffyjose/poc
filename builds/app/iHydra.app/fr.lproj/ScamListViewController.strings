@@ -1,0 +1,9 @@
+/* Class = "UILabel"; text = "Reported by you"; ObjectID = "Rc3-nZ-GOO"; */
+"Rc3-nZ-GOO.text" = "Signalé par vous";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "rhI-hl-qgY"; */
+"rhI-hl-qgY.normalTitle" = "Edit";
+
+/* Class = "UIButton"; normalTitle = "Report"; ObjectID = "xbx-RP-Ghn"; */
+"xbx-RP-Ghn.normalTitle" = "Signaler";
+

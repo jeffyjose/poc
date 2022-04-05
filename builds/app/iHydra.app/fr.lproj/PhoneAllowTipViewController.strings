@@ -1,0 +1,6 @@
+/* Class = "UILabel"; text = "Use your <b>Phone Allow List</b> for numbers you trust, but don't want to add to your phone's Contacts."; ObjectID = "gPr-bc-Gvf"; */
+"gPr-bc-Gvf.text" = "Utilisez votre <b>Liste verte de téléphone</b> pour les numéros de confiance que vous ne souhaitez cependant pas ajouter aux Contacts de votre téléphone.";
+
+/* Class = "UILabel"; text = "Tap on the info icon to access this help tip again."; ObjectID = "NYs-cy-fHX"; */
+"NYs-cy-fHX.text" = "Appuyez sur l'icône d'information pour accéder à nouveau à cette astuce.";
+

@@ -1,0 +1,9 @@
+/* Class = "UILabel"; text = "Tap on the info icon to access this help tip again."; ObjectID = "0bE-dJ-h8f"; */
+"0bE-dJ-h8f.text" = "Pulsa sobre el icono de información para acceder de nuevo a este consejo de la ayuda.";
+
+/* Class = "UITextView"; text = "DNL You can also add a blocked site to your Web Allow List directly from Safari. Learn How."; ObjectID = "gBz-Ye-WRM"; */
+"gBz-Ye-WRM.text" = "DNL You can also add a blocked site to your Web Allow List directly from Safari. Learn How.";
+
+/* Class = "UILabel"; text = "Add a site to your <b>Web Allow List</b> if it gets blocked by Web Protection, but you want to view it anyway."; ObjectID = "NqY-rb-IG8"; */
+"NqY-rb-IG8.text" = "Agrega un sitio a tu <b>Lista de sitios web permitidos</b> si la protección Web lo bloquea, pero quieres visitarlo de todos modos.";
+

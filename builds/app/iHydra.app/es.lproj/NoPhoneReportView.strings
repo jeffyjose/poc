@@ -1,0 +1,6 @@
+/* Class = "UILabel"; text = "The Report feature is only available on iPhone"; ObjectID = "IeV-fQ-Qul"; */
+"IeV-fQ-Qul.text" = "La función Denunciar solo está disponible para iPhone";
+
+/* Class = "UILabel"; text = "This device can’t receive phone calls, but if you use Malwarebytes for iOS on an iPhone, you can use Report to block calls and texts from a specific number. It also helps us identify scam numbers so we can protect other users."; ObjectID = "NE2-Pl-hgg"; */
+"NE2-Pl-hgg.text" = "Este dispositivo no puede recibir llamadas, pero, si utilizas Malwarebytes para iOS en un iPhone, puedes usar la función Denunciar para bloquear llamadas y mensajes de un número específico. También nos ayuda a identificar números fraudulentos para poder proteger a otros usuarios.";
+

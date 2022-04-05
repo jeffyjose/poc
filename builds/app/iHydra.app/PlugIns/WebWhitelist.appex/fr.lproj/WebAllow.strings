@@ -1,0 +1,114 @@
+/* Class = "UILabel"; text = "Turn off Content Blockers"; ObjectID = "3A5-DG-YTa"; */
+"3A5-DG-YTa.text" = "Désaciver les bloqueurs de contenu";
+
+/* Class = "UILabel"; text = "Print"; ObjectID = "6r2-Yq-UPJ"; */
+"6r2-Yq-UPJ.text" = "Imprimer";
+
+/* Class = "UILabel"; text = "Allow this website"; ObjectID = "11a-Ng-daI"; */
+"11a-Ng-daI.text" = "Autoriser ce site Web";
+
+/* Class = "UILabel"; text = "has been added to the Web Allow List"; ObjectID = "dDe-u9-S3R"; */
+"dDe-u9-S3R.text" = "a été ajouté à la liste verte Web";
+
+/* Class = "UINavigationItem"; title = "Web Allow List"; ObjectID = "dnC-6T-ZhQ"; */
+"dnC-6T-ZhQ.title" = "Liste verte Web";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "dzM-ad-Yal"; */
+"dzM-ad-Yal.text" = "3";
+
+/* Class = "UILabel"; text = "When the share menu pops up, tap the Malwarebytes icon labeled <b>Allow this website</b> and the site will be added to your Web Allow List."; ObjectID = "eBf-vv-sbd"; */
+"eBf-vv-sbd.text" = "Lorsque le menu Partager s'affiche, appuyez sur l'icône Malwarebytes intitulée <b>Autoriser ce site Web</b> et le site sera ajouté à votre Liste verte Web.";
+
+/* Class = "UILabel"; text = "How to add a blocked site to your Allow List. "; ObjectID = "erE-Ky-GDt"; */
+"erE-Ky-GDt.text" = "Comment ajouter un site bloqué à la Liste verte ? ";
+
+/* Class = "UILabel"; text = "Cancel"; ObjectID = "fEm-Zj-MFg"; */
+"fEm-Zj-MFg.text" = "Annuler";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "G5D-TU-Ihx"; */
+"G5D-TU-Ihx.text" = "2";
+
+/* Class = "UILabel"; text = "Website Settings"; ObjectID = "gbY-ZS-Bst"; */
+"gbY-ZS-Bst.text" = "Réglages de site web";
+
+/* Class = "UILabel"; text = "When the site reloads, tap the Share icon at the bottom of the screen."; ObjectID = "HnJ-OD-yds"; */
+"HnJ-OD-yds.text" = "Lorsque la page de ce site se recharge, appuyez sur l'icône Partager en bas de l'écran.";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "iNC-RR-FfQ"; */
+"iNC-RR-FfQ.text" = "2";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "iTM-G8-L1w"; */
+"iTM-G8-L1w.text" = "1";
+
+/* Class = "UILabel"; text = "Markup"; ObjectID = "Jfb-tp-rbg"; */
+"Jfb-tp-rbg.text" = "Annoter";
+
+/* Class = "UILabel"; text = "A menu should pop up at the bottom of the screen. Tap <b>Reload Without Content Blockers.</b>"; ObjectID = "jLf-8b-x7l"; */
+"jLf-8b-x7l.text" = "Un menu doit s'afficher en bas de l'écran. Appuyez sur <b>Recharger sans les bloqueurs de contenu.</b>";
+
+/* Class = "UILabel"; text = "On a blocked page, tap and hold the reload icon in the top right corner."; ObjectID = "KQ1-RW-ssa"; */
+"KQ1-RW-ssa.text" = "Sur une page bloquée, appuyez longuement sur l'icône Recharger dans l'angle supérieur droit.";
+
+/* Class = "UILabel"; text = "In the menu that pops up, tap <b>Turn off Content Blockers</b> to load the site. "; ObjectID = "l5T-Kh-L2f"; */
+"l5T-Kh-L2f.text" = "Dans le menu qui s'ouvre, appuyez sur <b>Désactiver les bloqueurs de contenu</b> pour charger le site. ";
+
+/* Class = "UILabel"; text = "How to add a blocked site to your Allow List. "; ObjectID = "LxM-96-Cfb"; */
+"LxM-96-Cfb.text" = "Comment ajouter un site bloqué à la Liste verte ? ";
+
+/* Class = "UINavigationItem"; title = "Web Allow List"; ObjectID = "mx1-kY-V3W"; */
+"mx1-kY-V3W.title" = "Liste verte Web";
+
+/* Class = "UILabel"; text = "In the Share menu, tap <b>Allow this website</b> to add it to your Web Allow List. "; ObjectID = "n75-Vd-QZE"; */
+"n75-Vd-QZE.text" = "Dans le menu Partager, appuyez sur <b>Autoriser ce site Web</b> pour l'ajouter à votre liste verte Web. ";
+
+/* Class = "UILabel"; text = "Request Desktop Site"; ObjectID = "OCD-YW-lxL"; */
+"OCD-YW-lxL.text" = "Demander la version bureau du site";
+
+/* Class = "UILabel"; text = "On a blocked site, tap the <b>ᴀA icon</b> in the top left corner."; ObjectID = "pxU-CT-MNK"; */
+"pxU-CT-MNK.text" = "Sur un site bloqué, appuyez sur l'<b>icône ᴀA</b> en haut à gauche.";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "S7u-Cv-ZrT"; */
+"S7u-Cv-ZrT.text" = "4";
+
+/* Class = "UILabel"; text = "Reload Without Content Blockers"; ObjectID = "sGA-HX-scF"; */
+"sGA-HX-scF.text" = "Recharger sans les bloqueurs de contenu";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "slh-5I-J0V"; */
+"slh-5I-J0V.text" = "3";
+
+/* Class = "UILabel"; text = "Safari cannot open the page."; ObjectID = "t70-66-qtb"; */
+"t70-66-qtb.text" = "Safari ne peut pas ouvrir la page.";
+
+/* Class = "UILabel"; text = "website url"; ObjectID = "tj0-uG-5Ib"; */
+"tj0-uG-5Ib.text" = "url site web";
+
+/* Class = "UILabel"; text = "Request Desktop Website"; ObjectID = "TsJ-fi-U8K"; */
+"TsJ-fi-U8K.text" = "Version pour ordinateur";
+
+/* Class = "UILabel"; text = "www.websiteURL.com"; ObjectID = "TzT-q0-HGh"; */
+"TzT-q0-HGh.text" = "www.websiteURL.com";
+
+/* Class = "UILabel"; text = "With the site loaded, open the Share menu by tapping the <b>share icon</b> at the bottom of the screen. "; ObjectID = "u97-fG-wit"; */
+"u97-fG-wit.text" = "Une fois le site chargé, ouvrez le menu Partager en appuyant sur l'<b>icône de partage</b> au bas de l'écran. ";
+
+/* Class = "UILabel"; text = "Tap the <b>arrow icon</b> on the top left corner of the screen to go back to the browser"; ObjectID = "Usl-CV-6oQ"; */
+"Usl-CV-6oQ.text" = "Appuyez sur l'<b>icône en forme de flèche</b> en haut à gauche de l'écran pour revenir au navigateur";
+
+/* Class = "UILabel"; text = "The error was: “The URL was blocked by a content blocker”."; ObjectID = "vaV-e8-vHv"; */
+"vaV-e8-vHv.text" = "Message d'erreur : « L'URL a été bloquée par un bloqueur de contenu. »";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "wid-Fh-L90"; */
+"wid-Fh-L90.text" = "4";
+
+/* Class = "UILabel"; text = "<b>Refresh</b> the browser to see the site"; ObjectID = "WKv-Dr-0ib"; */
+"WKv-Dr-0ib.text" = "Appuyez sur le bouton <b>Actualiser</b> du navigateur pour voir le site";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "YKn-ei-mBq"; */
+"YKn-ei-mBq.text" = "1";
+
+/* Class = "UINavigationItem"; title = "Malwarebytes"; ObjectID = "ZfQ-rt-2gD"; */
+"ZfQ-rt-2gD.title" = "Malwarebytes";
+
+/* Class = "UILabel"; text = "Allow this website"; ObjectID = "zou-EG-YVA"; */
+"zou-EG-YVA.text" = "Autoriser ce site Web";
+

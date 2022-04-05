@@ -1,0 +1,12 @@
+/* Class = "UILabel"; text = "Text Message Filtering sends suspicious texts to a junk tab."; ObjectID = "aOC-zx-Cnh"; */
+"aOC-zx-Cnh.text" = "El filtro de mensajes de texto envía mensajes sospechosos a una bandeja de correo no deseado.";
+
+/* Class = "UILabel"; text = "Due to iOS limitations, we can't tell if Text Message Filtering is turned on. "; ObjectID = "eNg-aH-9IG"; */
+"eNg-aH-9IG.text" = "Debido a las limitaciones de iOS, no podemos determinar si el filtro de mensajes de texto está activado. ";
+
+/* Class = "UIButton"; normalTitle = "Activate protection"; ObjectID = "qka-Fd-jGP"; */
+"qka-Fd-jGP.normalTitle" = "Activar protección";
+
+/* Class = "UITextView"; text = "We would never look at your texts, but in order to filter out junk, we may need to send some of your texts to our server via an encrypted TLS connection. We anonymize all of your data and we don't store or log anything unless it's known to be malicious. "; ObjectID = "wEs-3M-4uo"; */
+"wEs-3M-4uo.text" = "Nunca miraremos tus mensajes, pero para filtrar los mensajes no deseados, es posible que necesitemos enviar algunos de tus mensajes a nuestro servidor por medio de una conexión TLS cifrada. Anonimizamos todos tus datos y no almacenamos ni registramos nada a menos que se sepa que es malicioso. ";
+

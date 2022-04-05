@@ -1,0 +1,9 @@
+/* Class = "UILabel"; text = "Are you sure you want to turn off Web Protection?"; ObjectID = "8KZ-C4-KUN"; */
+"8KZ-C4-KUN.text" = "¿Seguro que quieres desactivar la protección web?";
+
+/* Class = "UIButton"; normalTitle = "Turn off protection"; ObjectID = "951-q9-7eK"; */
+"951-q9-7eK.normalTitle" = "Desactivar protección";
+
+/* Class = "UILabel"; text = "Web Protection stops you from accidentally visiting sites that contain scams when you use Safari."; ObjectID = "VJJ-Q8-6g4"; */
+"VJJ-Q8-6g4.text" = "La protección web impide que visites accidentalmente sitios que contienen estafas cuando utilizas Safari.";
+

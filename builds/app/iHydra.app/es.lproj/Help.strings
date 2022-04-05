@@ -1,0 +1,57 @@
+/* Class = "UILabel"; text = "About Malwarebytes"; ObjectID = "1Dt-lz-2Cl"; */
+"1Dt-lz-2Cl.text" = "Acerca de Malwarebytes";
+
+/* Class = "UILabel"; text = "License agreement"; ObjectID = "aAy-j8-agL"; */
+"aAy-j8-agL.text" = "Acuerdo de licencia";
+
+/* Class = "UINavigationItem"; title = "Help"; ObjectID = "baF-mQ-osR"; */
+"baF-mQ-osR.title" = "Ayuda";
+
+/* Class = "UILabel"; text = "DNL"; ObjectID = "bxZ-HN-Ki4"; */
+"bxZ-HN-Ki4.text" = "DNL";
+
+/* Class = "UILabel"; text = "DNL"; ObjectID = "e84-pR-p5p"; */
+"e84-pR-p5p.text" = "DNL";
+
+/* Class = "UILabel"; text = "Web Protection version:"; ObjectID = "Egg-vg-IsF"; */
+"Egg-vg-IsF.text" = "Versión Protección web:";
+
+/* Class = "UILabel"; text = "Privacy policy"; ObjectID = "eSS-xv-bRu"; */
+"eSS-xv-bRu.text" = "Política de privacidad";
+
+/* Class = "UILabel"; text = "Rate this app"; ObjectID = "fhQ-MA-h4q"; */
+"fhQ-MA-h4q.text" = "Valorar esta aplicación";
+
+/* Class = "UILabel"; text = "Submit feedback"; ObjectID = "jHK-QI-jLx"; */
+"jHK-QI-jLx.text" = "Enviar comentarios";
+
+/* Class = "UILabel"; text = "Security news"; ObjectID = "Kpw-tK-Xmr"; */
+"Kpw-tK-Xmr.text" = "Noticias de seguridad";
+
+/* Class = "UILabel"; text = "User Guide"; ObjectID = "LNF-3n-bXp"; */
+"LNF-3n-bXp.text" = "Guía del usuario";
+
+/* Class = "UILabel"; text = "DNL"; ObjectID = "oZE-8g-gOo"; */
+"oZE-8g-gOo.text" = "DNL";
+
+/* Class = "UILabel"; text = "Ad Blocker version:"; ObjectID = "RwD-WC-Yr9"; */
+"RwD-WC-Yr9.text" = "Versión Bloqueador de anuncios:";
+
+/* Class = "UILabel"; text = "Call Protection version:"; ObjectID = "sXT-eQ-CQI"; */
+"sXT-eQ-CQI.text" = "Versión Protección de llamadas:";
+
+/* Class = "UILabel"; text = "Share this app"; ObjectID = "tfR-WB-h8y"; */
+"tfR-WB-h8y.text" = "Compartir esta aplicación";
+
+/* Class = "UILabel"; text = "App version:"; ObjectID = "WUz-2g-xF8"; */
+"WUz-2g-xF8.text" = "Versión de la aplicación:";
+
+/* Class = "UILabel"; text = "How to access a blocked site"; ObjectID = "y2g-Pt-VKu"; */
+"y2g-Pt-VKu.text" = "Cómo acceder a un sitio bloqueado";
+
+/* Class = "UILabel"; text = "DNL"; ObjectID = "ych-3n-Rwh"; */
+"ych-3n-Rwh.text" = "DNL";
+
+/* Class = "UILabel"; text = "Search for answers"; ObjectID = "Zr3-Qb-ami"; */
+"Zr3-Qb-ami.text" = "Buscar respuestas";
+

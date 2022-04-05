@@ -1,0 +1,9 @@
+/* Class = "UILabel"; text = "To activate this feature, upgrade to Premium. It’s free for the first ##LENGTH## days and you can cancel at any time."; ObjectID = "Eza-BJ-mmI"; */
+"Eza-BJ-mmI.text" = "Para activar esta función, actualízate a Premium. Es gratis durante los primeros ##LENGTH## días, y puedes cancelarlo en cualquier momento.";
+
+/* Class = "UIButton"; normalTitle = "button"; ObjectID = "hXy-T8-4UI"; */
+"hXy-T8-4UI.normalTitle" = "button";
+
+/* Class = "UILabel"; text = "Call Protection detects when a call is from a suspected scammer, then it blocks the call or warns you it may be fraudulent."; ObjectID = "rU4-gc-HMt"; */
+"rU4-gc-HMt.text" = "La protección de llamadas detecta si la llamada procede de un sospechoso de ser estafador y en ese caso bloquea la llamada o te advierte de que puede ser fraudulenta.";
+

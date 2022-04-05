@@ -1,0 +1,48 @@
+/* Class = "UILabel"; text = "Anything else you want to share about this number?"; ObjectID = "1Dl-GW-f0n"; */
+"1Dl-GW-f0n.text" = "Souhaitez-vous ajouter autre chose concernant ce numéro ?";
+
+/* Class = "UILabel"; text = "Hung up after 1 ring"; ObjectID = "7c5-va-64p"; */
+"7c5-va-64p.text" = "Raccrocher après 1 sonnerie";
+
+/* Class = "UINavigationItem"; title = "Report a number"; ObjectID = "77C-4G-ucM"; */
+"77C-4G-ucM.title" = "Signaler un numéro";
+
+/* Class = "UILabel"; text = "Report a fraudulent number to Malwarebytes"; ObjectID = "fNd-q4-dUi"; */
+"fNd-q4-dUi.text" = "Signaler un numéro frauduleux auprès de Malwarebytes";
+
+/* Class = "UITextView"; text = "DNL: You can also report a number through the iOS Phone app. Learn how."; ObjectID = "HcI-gZ-ii2"; */
+"HcI-gZ-ii2.text" = "DNL: You can also report a number through the iOS Phone app. Learn how.";
+
+/* Class = "UILabel"; text = "Thanks!"; ObjectID = "hGF-7v-cmo"; */
+"hGF-7v-cmo.text" = "Merci !";
+
+/* Class = "UILabel"; text = "Robo call (pre-recorded message)"; ObjectID = "iEq-Jt-GXH"; */
+"iEq-Jt-GXH.text" = "Appel automatique (message pré-enregistré)";
+
+/* Class = "UILabel"; text = "After we verify that the number is fraudulent, we will add it to our list of known scammers.\n"; ObjectID = "IIU-FQ-Yb6"; */
+"IIU-FQ-Yb6.text" = "Après avoir vérifié que le numéro est frauduleux, nous l'ajouterons à notre liste d'escrocs connus.\n";
+
+/* Class = "UILabel"; text = "What made you suspicious? Check all that apply:"; ObjectID = "jzK-SG-16S"; */
+"jzK-SG-16S.text" = "Quelle est la raison de votre suspicion ? Cochez toutes les cases appropriées :";
+
+/* Class = "UILabel"; text = "Phishing scam (tried to trick you into revealing your info)"; ObjectID = "kgb-fc-k5g"; */
+"kgb-fc-k5g.text" = "Arnaque à l'hameçonnage (tentative d'obtention de données)";
+
+/* Class = "UILabel"; text = "On behalf of Malwarebytes and users like you, thank you for reporting this suspected scammer. After we verify that the number is fraudulent, we will add it to our list of known scammers.\n\nIn the meantime, we will block this number from calling you and send their texts to a junk tab in your Messages app."; ObjectID = "lS1-of-IkI"; */
+"lS1-of-IkI.text" = "Au nom de Malwarebytes et des autres utilisateurs, merci d'avoir signalé cet escroc présumé. Après avoir vérifié que le numéro est frauduleux, nous l'ajouterons à notre liste d'arnaques connues.\n\nEn attendant, nous bloquerons les appels provenant de ce numéro et enverrons les messages texte dans l'onglet Spams de l'application Messages.";
+
+/* Class = "UILabel"; text = "Comments"; ObjectID = "QnA-12-z5Z"; */
+"QnA-12-z5Z.text" = "Commentaires";
+
+/* Class = "UILabel"; text = "Other"; ObjectID = "WPk-Nj-Nuh"; */
+"WPk-Nj-Nuh.text" = "Autre";
+
+/* Class = "UILabel"; text = "Time of call"; ObjectID = "xZx-U0-6MR"; */
+"xZx-U0-6MR.text" = "Heure de l'appel";
+
+/* Class = "UILabel"; text = "Phone number *"; ObjectID = "Z3T-va-q0J"; */
+"Z3T-va-q0J.text" = "Numéro de téléphone *";
+
+/* Class = "UIBarButtonItem"; title = "Submit"; ObjectID = "Z5a-gf-q1f"; */
+"Z5a-gf-q1f.title" = "Envoyer";
+

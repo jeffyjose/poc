@@ -1,0 +1,12 @@
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "Ewk-6L-9kG"; */
+"Ewk-6L-9kG.normalTitle" = "Continuer";
+
+/* Class = "UILabel"; text = "Scammers often use tricks to appear like they're calling from a local number that is similar to yours. Knowing your number allows us to detect these calls. "; ObjectID = "jlf-cb-SYe"; */
+"jlf-cb-SYe.text" = "Souvent, les escrocs utilisent des astuces pour faire croire qu'ils appellent d'un numéro local, semblable au vôtre. En connaissant votre numéro, nous pouvons détecter ces appels. ";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "kl2-0W-RPy"; */
+"kl2-0W-RPy.normalTitle" = "Ignorer";
+
+/* Class = "UILabel"; text = "To improve Call Protection, add your phone number."; ObjectID = "TRj-Ah-7mJ"; */
+"TRj-Ah-7mJ.text" = "Pour améliorer la protection des appels, ajoutez votre numéro de téléphone.";
+

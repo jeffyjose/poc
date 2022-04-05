@@ -1,0 +1,6 @@
+/* Class = "UILabel"; text = "This device can’t receive phone calls, but if you use Malwarebytes for iOS on an iPhone, you can use the Phone Allow List to make sure you get calls from a certain number without adding it to your contacts."; ObjectID = "ulB-hi-hvg"; */
+"ulB-hi-hvg.text" = "Este dispositivo no puede recibir llamadas, pero, si utilizas Malwarebytes para iOS en un iPhone, puedes usar la lista de teléfonos permitidos para asegurarte de recibir las llamadas de un número concreto sin agregarlo a tus contactos.";
+
+/* Class = "UILabel"; text = "Phone Allow List is only available on iPhone"; ObjectID = "Y6Y-Qr-pkT"; */
+"Y6Y-Qr-pkT.text" = "La lista de teléfonos permitidos solo está disponible para iPhone";
+

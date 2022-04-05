@@ -1,0 +1,6 @@
+/* Class = "UIButton"; normalTitle = "Got it"; ObjectID = "cbQ-3m-Lb0"; */
+"cbQ-3m-Lb0.normalTitle" = "Comprendido";
+
+/* Class = "UILabel"; text = "Though you’ve turned on the <b>Web Protection</b> content blocker in your settings, your protection won’t start until you upgrade to Premium."; ObjectID = "HAl-Rl-eH3"; */
+"HAl-Rl-eH3.text" = "Aunque has activado el bloqueador de contenido de la <b>Protección web</b> en tu configuración, la protección no comenzará hasta que te actualices a Premium.";
+

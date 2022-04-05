@@ -1,0 +1,15 @@
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "Jjm-ff-PXd"; */
+"Jjm-ff-PXd.normalTitle" = "Edit";
+
+/* Class = "UILabel"; text = "My Contacts"; ObjectID = "kaP-Xm-oXQ"; */
+"kaP-Xm-oXQ.text" = "Mes contacts";
+
+/* Class = "UILabel"; text = "Added by you"; ObjectID = "kWC-pB-aNV"; */
+"kWC-pB-aNV.text" = "Ajouté par vous";
+
+/* Class = "UIButton"; normalTitle = "Allow access"; ObjectID = "TuM-hn-L25"; */
+"TuM-hn-L25.normalTitle" = "Autoriser l'accès";
+
+/* Class = "UILabel"; text = "Allow a new number"; ObjectID = "zaE-kM-vUg"; */
+"zaE-kM-vUg.text" = "Autoriser un nouveau numéro";
+

@@ -12,10 +12,10 @@ exports.config = {
     capabilities: [{
         'appium:automationName': 'XCUITest',
         'appium:platformName': 'iOS',
-        'appium:platformVersion': '15.4',
-        'appium:deviceName': 'iPhone 13',
-        'appium:udid': '98F21B3B-F621-4117-A005-35D5599129E1',
-        'appium:app': join(process.cwd(), './builds/app/TestApp.app'),
+        'appium:platformVersion': '14.0',
+        'appium:deviceName': 'iPhone 11 Pro',
+        'appium:udid': '4ED7CBFE-7AF4-41DB-956F-2CB6CED56A08',
+        'appium:app': join(process.cwd(), './builds/app/iHydra.app'),
       }],
 
     logLevel: 'error',

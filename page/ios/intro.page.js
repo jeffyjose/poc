@@ -34,5 +34,6 @@ class IntroPage {
         console.log("Intro - check that sum filed is: " + int);
         assert.equal(await intro.tvSumResult.getValue(), int);
     }
+
 }
 module.exports = new IntroPage();

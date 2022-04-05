@@ -1,0 +1,9 @@
+/* Class = "UIButton"; normalTitle = "Go back to previous screen"; ObjectID = "Ewk-6L-9kG"; */
+"Ewk-6L-9kG.normalTitle" = "Go back to previous screen";
+
+/* Class = "UILabel"; text = "Please verify your phone number."; ObjectID = "TRj-Ah-7mJ"; */
+"TRj-Ah-7mJ.text" = "Verifica tu número de teléfono.";
+
+/* Class = "UILabel"; text = "This number does not match. Please try again."; ObjectID = "VP2-7z-ms3"; */
+"VP2-7z-ms3.text" = "Este número no coincide. Inténtalo de nuevo.";
+

@@ -1,0 +1,15 @@
+/* Class = "UITextView"; text = "Did you receive a fraudulent call or text? Add the scammer’s number here to block their calls and forward their texts to a junk tab in your Messages app.\n\nAfter we verify the number, we'll add it to our list of known scammers."; ObjectID = "cs7-Ia-oaZ"; */
+"cs7-Ia-oaZ.text" = "Did you receive a fraudulent call or text? Add the scammer’s number here to block their calls and forward their texts to a junk tab in your Messages app.\n\nAfter we verify the number, we'll add it to our list of known scammers.";
+
+/* Class = "UIButton"; normalTitle = "Upgrade now"; ObjectID = "CtX-US-MjU"; */
+"CtX-US-MjU.normalTitle" = "Actualizar ahora";
+
+/* Class = "UITextView"; text = "DNL You can also report a number through the iOS Phone app.\nLearn how."; ObjectID = "HVW-Nn-3au"; */
+"HVW-Nn-3au.text" = "DNL You can also report a number through the iOS Phone app.\nLearn how.";
+
+/* Class = "UILabel"; text = "To block calls from these numbers too, upgrade to Premium. The first ##LENGTH## days are free, and you can cancel at any time."; ObjectID = "SaQ-ij-MxN"; */
+"SaQ-ij-MxN.text" = "Para bloquear también las llamadas de estos números, actualízate a Premium. Es gratis durante los primeros ##LENGTH## días, y puedes cancelarlo en cualquier momento.";
+
+/* Class = "UILabel"; text = "Tap on the info icon to access this help tip again."; ObjectID = "Skw-ft-hcM"; */
+"Skw-ft-hcM.text" = "Pulsa sobre el icono de información para acceder de nuevo a este consejo de la ayuda.";
+

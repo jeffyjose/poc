@@ -1,0 +1,6 @@
+/* Class = "UIButton"; normalTitle = "Activate protection"; ObjectID = "e0t-Sh-cBv"; */
+"e0t-Sh-cBv.normalTitle" = "Activar protección";
+
+/* Class = "UILabel"; text = "Ad blocking removes annoying ads from Safari.\n\nIt also blocks ad trackers that advertisers use to target you."; ObjectID = "ufN-sS-HKZ"; */
+"ufN-sS-HKZ.text" = "El bloqueo de anuncios elimina los anuncios molestos de Safari.\n\nTambién bloquea los rastreadores de anuncios que los anunciantes utilizan para dirigirse a ti.";
+

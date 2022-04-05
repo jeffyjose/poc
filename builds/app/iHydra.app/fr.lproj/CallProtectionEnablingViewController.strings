@@ -1,0 +1,15 @@
+/* Class = "UILabel"; text = "Scroll down and tap <b>Phone</b>"; ObjectID = "d4O-ql-zUA"; */
+"d4O-ql-zUA.text" = "Faites défiler la page et appuyez sur <b>Téléphone</b>";
+
+/* Class = "UILabel"; text = "Tap <b>Call Blocking & Identification</b>"; ObjectID = "e2Y-uR-z8q"; */
+"e2Y-uR-z8q.text" = "Appuyez sur <b>Blocage d'appels et identification</b>";
+
+/* Class = "UILabel"; text = "Toggle <b>Malwarebytes</b> on"; ObjectID = "mjy-sB-Oys"; */
+"mjy-sB-Oys.text" = "Activez <b>Malwarebytes</b>";
+
+/* Class = "UILabel"; text = "Go to <b>Settings</b>"; ObjectID = "p5i-5D-nLx"; */
+"p5i-5D-nLx.text" = "Allez à <b>Paramètres</b>";
+
+/* Class = "UILabel"; text = "Follow these steps to turn on Call Protection."; ObjectID = "RqR-GP-xpr"; */
+"RqR-GP-xpr.text" = "Suivez ces étapes pour activer la protection des appels.";
+

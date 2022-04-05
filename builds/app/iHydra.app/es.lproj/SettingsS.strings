@@ -1,0 +1,45 @@
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "Fnf-Qk-Q5d"; */
+"Fnf-Qk-Q5d.title" = "Configuración";
+
+/* Class = "UIButton"; normalTitle = "Export diagnostic data"; ObjectID = "FoH-W7-J7c"; */
+"FoH-W7-J7c.normalTitle" = "Exportar datos de diagnóstico";
+
+/* Class = "UITableViewSection"; headerTitle = "Account info"; ObjectID = "I0l-hV-iYj"; */
+"I0l-hV-iYj.headerTitle" = "Información de cuenta";
+
+/* Class = "UILabel"; text = "Enable diagnostic mode"; ObjectID = "IKQ-4f-aql"; */
+"IKQ-4f-aql.text" = "Habilitar modo de diagnóstico";
+
+/* Class = "UITextField"; placeholder = "Not specified"; ObjectID = "JHU-eE-g0j"; */
+"JHU-eE-g0j.placeholder" = "No especificado";
+
+/* Class = "UITextField"; text = "(415) 882-9388"; ObjectID = "JHU-eE-g0j"; */
+"JHU-eE-g0j.text" = "(415) 882-9388";
+
+/* Class = "UILabel"; text = "Account type"; ObjectID = "NbA-xs-7v2"; */
+"NbA-xs-7v2.text" = "Tipo de cuenta";
+
+/* Class = "UILabel"; text = "Allow push notifications"; ObjectID = "nnr-Y3-Bkh"; */
+"nnr-Y3-Bkh.text" = "Permitir notificaciones automáticas";
+
+/* Class = "UIButton"; normalTitle = "Already have a subscription"; ObjectID = "s4Q-5x-gmG"; */
+"s4Q-5x-gmG.normalTitle" = "Ya tienes una suscripción";
+
+/* Class = "UILabel"; text = "Upgrade to block fraudulent calls and websites"; ObjectID = "sFN-Po-t3F"; */
+"sFN-Po-t3F.text" = "Actualizar para bloquear llamadas y sitios web fraudulentos";
+
+/* Class = "UILabel"; text = "Free"; ObjectID = "tY5-0f-sHX"; */
+"tY5-0f-sHX.text" = "Gratis";
+
+/* Class = "UILabel"; text = "Share anonymous telemetry"; ObjectID = "wVB-2I-EwS"; */
+"wVB-2I-EwS.text" = "Compartir telemetría anónima";
+
+/* Class = "UIButton"; normalTitle = "[[ Upgrade now ]]"; ObjectID = "zfF-iO-TKP"; */
+"zfF-iO-TKP.normalTitle" = "[[ Upgrade now ]]";
+
+/* Class = "UILabel"; text = "Phone number"; ObjectID = "zMe-tN-iVf"; */
+"zMe-tN-iVf.text" = "Número de teléfono";
+
+/* Class = "UILabel"; text = "Generates a local report for support use only"; ObjectID = "zYQ-nF-ND0"; */
+"zYQ-nF-ND0.text" = "Genera un informe local solo para fines de soporte técnico";
+

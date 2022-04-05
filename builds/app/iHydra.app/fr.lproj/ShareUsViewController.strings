@@ -1,0 +1,12 @@
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "Jei-OL-Rji"; */
+"Jei-OL-Rji.normalTitle" = "Partager";
+
+/* Class = "UILabel"; text = "Spread the word about Malwarebytes."; ObjectID = "MSV-DH-i2Q"; */
+"MSV-DH-i2Q.text" = "Parlez de Malwarebytes autour de vous.";
+
+/* Class = "UILabel"; text = "Help a friend avoid scams."; ObjectID = "nSw-mb-KCl"; */
+"nSw-mb-KCl.text" = "Aidez vos proches à éviter les arnaques.";
+
+/* Class = "UIButton"; normalTitle = "Not now"; ObjectID = "Pdx-oj-5ZW"; */
+"Pdx-oj-5ZW.normalTitle" = "Pas maintenant";
+

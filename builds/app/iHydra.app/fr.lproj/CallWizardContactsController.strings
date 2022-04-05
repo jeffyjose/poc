@@ -1,0 +1,9 @@
+/* Class = "UIButton"; normalTitle = "Allow access"; ObjectID = "Ewk-6L-9kG"; */
+"Ewk-6L-9kG.normalTitle" = "Autoriser l'accès";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "kl2-0W-RPy"; */
+"kl2-0W-RPy.normalTitle" = "Ignorer";
+
+/* Class = "UILabel"; text = "We use your contact list to make sure we don’t block calls from people you know."; ObjectID = "TRj-Ah-7mJ"; */
+"TRj-Ah-7mJ.text" = "Votre liste de contacts nous permet de ne pas bloquer d'appels de personnes que vous connaissez.";
+

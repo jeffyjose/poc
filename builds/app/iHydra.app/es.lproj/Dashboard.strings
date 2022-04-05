@@ -1,0 +1,39 @@
+/* Class = "UILabel"; text = "Web Protection"; ObjectID = "6Ba-Pa-PQ7"; */
+"6Ba-Pa-PQ7.text" = "Protección web";
+
+/* Class = "UILabel"; text = "Customize protection"; ObjectID = "a9b-oy-dU3"; */
+"a9b-oy-dU3.text" = "Personalizar la protección";
+
+/* Class = "UILabel"; text = "Text Message Filtering"; ObjectID = "Bnn-DK-B1G"; */
+"Bnn-DK-B1G.text" = "Filtro de mensajes de texto";
+
+/* Class = "UINavigationItem"; title = "Malwarebytes"; ObjectID = "eVn-cw-pYS"; */
+"eVn-cw-pYS.title" = "Malwarebytes";
+
+/* Class = "UILabel"; text = "[[ First ##LENGTH## days FREE ]]"; ObjectID = "G2c-Nz-Gya"; */
+"G2c-Nz-Gya.text" = "[[ First ##LENGTH## days FREE ]]";
+
+/* Class = "UIButton"; normalTitle = "Activate"; ObjectID = "GRg-a1-p00"; */
+"GRg-a1-p00.normalTitle" = "Activar";
+
+/* Class = "UILabel"; text = "Call Protection"; ObjectID = "GSb-xt-UIX"; */
+"GSb-xt-UIX.text" = "Protección de llamadas";
+
+/* Class = "UIButton"; normalTitle = "Activate"; ObjectID = "JGp-17-2ZE"; */
+"JGp-17-2ZE.normalTitle" = "Activar";
+
+/* Class = "UILabel"; text = "Ad Blocking"; ObjectID = "LQI-m3-mkG"; */
+"LQI-m3-mkG.text" = "Bloqueo de anuncios";
+
+/* Class = "UITableViewSection"; headerTitle = "PREMIUM"; ObjectID = "mk4-XJ-QUf"; */
+"mk4-XJ-QUf.headerTitle" = "PREMIUM";
+
+/* Class = "UITableViewSection"; headerTitle = "FREE"; ObjectID = "nl8-Od-ydG"; */
+"nl8-Od-ydG.headerTitle" = "GRATIS";
+
+/* Class = "UILabel"; text = "[[ First ##LENGTH## days FREE ]]"; ObjectID = "nwM-7x-LQF"; */
+"nwM-7x-LQF.text" = "[[ First ##LENGTH## days FREE ]]";
+
+/* Class = "UIButton"; normalTitle = "Activate"; ObjectID = "vHy-Oc-yeC"; */
+"vHy-Oc-yeC.normalTitle" = "Activar";
+

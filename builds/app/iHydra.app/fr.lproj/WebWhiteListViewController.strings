@@ -1,0 +1,18 @@
+/* Class = "UILabel"; text = "Allow a new website"; ObjectID = "5UE-tH-k9J"; */
+"5UE-tH-k9J.text" = "Autoriser un nouveau site Web";
+
+/* Class = "UIButton"; normalTitle = "Upgrade now"; ObjectID = "ofD-Yt-wSS"; */
+"ofD-Yt-wSS.normalTitle" = "Mettre à niveau maintenant";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "qgy-62-QaX"; */
+"qgy-62-QaX.normalTitle" = "Edit";
+
+/* Class = "UILabel"; text = "To activate Web Protection, upgrade to Premium. It's free for the first ##LENGTH## days, and you can cancel at any time."; ObjectID = "sDV-Gj-Hn9"; */
+"sDV-Gj-Hn9.text" = "Pour activer la protection Web, passez à la version Premium. Gratuite pendant les ##LENGTH## premiers jours, vous pouvez l'annuler à tout moment.";
+
+/* Class = "UILabel"; text = "Added by you"; ObjectID = "xnp-RV-0eO"; */
+"xnp-RV-0eO.text" = "Ajouté par vous";
+
+/* Class = "UILabel"; text = "Add a site to your Allow List if it gets blocked by Web Protection, but you want to view it anyway. "; ObjectID = "XvP-gp-Cnc"; */
+"XvP-gp-Cnc.text" = "Ajoutez un site à votre liste verte s'il se retrouve bloqué par la protection Web, mais que vous souhaitez tout de même le consulter. ";
+

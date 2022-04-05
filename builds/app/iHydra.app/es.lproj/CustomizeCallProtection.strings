@@ -1,0 +1,27 @@
+/* Class = "UINavigationItem"; title = "Customize protection"; ObjectID = "1S5-77-gWD"; */
+"1S5-77-gWD.title" = "Personalizar la protección";
+
+/* Class = "UILabel"; text = "Block"; ObjectID = "81d-gH-ODT"; */
+"81d-gH-ODT.text" = "Bloquear";
+
+/* Class = "UILabel"; text = "Calls from our list of known scammers."; ObjectID = "AAm-bz-JbF"; */
+"AAm-bz-JbF.text" = "Llamadas de nuestra lista de estafadores conocidos.";
+
+/* Class = "UILabel"; text = "Fraudulent calls"; ObjectID = "AUx-EI-Q3R"; */
+"AUx-EI-Q3R.text" = "Llamadas fraudulentas";
+
+/* Class = "UILabel"; text = "Warn"; ObjectID = "hkk-uh-ucz"; */
+"hkk-uh-ucz.text" = "Advertir";
+
+/* Class = "UILabel"; text = "Calls that use tricks to appear like a local call from a number similar to yours."; ObjectID = "qEG-dl-KWa"; */
+"qEG-dl-KWa.text" = "Llamadas que utilizan trucos para parecer llamadas locales hechas desde un número similar al tuyo.";
+
+/* Class = "UILabel"; text = "Warn"; ObjectID = "rOX-4X-B0j"; */
+"rOX-4X-B0j.text" = "Advertir";
+
+/* Class = "UILabel"; text = "Spoofed calls"; ObjectID = "uXV-DH-bsw"; */
+"uXV-DH-bsw.text" = "Llamadas falsas";
+
+/* Class = "UILabel"; text = "Block"; ObjectID = "x83-a1-KvN"; */
+"x83-a1-KvN.text" = "Bloquear";
+

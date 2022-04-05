@@ -1,6 +1,6 @@
 const intro = require('../../screen/android/privacyPolicy.screen.js');
 const assert = require('assert'); 
-const data = require('../../data/data');
+const data = require('../../data/android/data');
 
 class PrivacyPolicyPage {
 
